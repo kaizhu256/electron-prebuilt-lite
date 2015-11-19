@@ -1,0 +1,167 @@
+<svg height="2622" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2622" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2015-11-19 23:14:05 +0800</tspan>
+<tspan x="10" y="42">add screen-capture example</tspan>
+<tspan x="10" y="58"></tspan>
+<tspan x="10" y="74">2015-11-19 20:06:25 +0800</tspan>
+<tspan x="10" y="90">mv npm-postinstall.sh to index.sh</tspan>
+<tspan x="10" y="106"></tspan>
+<tspan x="10" y="122">2015-11-19 19:28:04 +0800</tspan>
+<tspan x="10" y="138">fix build</tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">2015-11-19 19:26:50 +0800</tspan>
+<tspan x="10" y="186">fix build</tspan>
+<tspan x="10" y="202"></tspan>
+<tspan x="10" y="218">2015-11-19 19:20:25 +0800</tspan>
+<tspan x="10" y="234">fix build</tspan>
+<tspan x="10" y="250"></tspan>
+<tspan x="10" y="266">2015-11-19 19:11:37 +0800</tspan>
+<tspan x="10" y="282">testing build</tspan>
+<tspan x="10" y="298"></tspan>
+<tspan x="10" y="314">2015-11-19 18:56:27 +0800</tspan>
+<tspan x="10" y="330">add external directory</tspan>
+<tspan x="10" y="346"></tspan>
+<tspan x="10" y="362">2015-11-19 18:48:05 +0800</tspan>
+<tspan x="10" y="378">working postinstall and test</tspan>
+<tspan x="10" y="394"></tspan>
+<tspan x="10" y="410">2015-11-19 18:29:23 +0800</tspan>
+<tspan x="10" y="426">fix postinstall.sh</tspan>
+<tspan x="10" y="442"></tspan>
+<tspan x="10" y="458">2015-11-19 18:10:38 +0800</tspan>
+<tspan x="10" y="474">update readme</tspan>
+<tspan x="10" y="490"></tspan>
+<tspan x="10" y="506">2015-11-19 17:38:55 +0800</tspan>
+<tspan x="10" y="522">npm publish 2015.10.1-a</tspan>
+<tspan x="10" y="538"></tspan>
+<tspan x="10" y="554">2015-11-19 17:35:06 +0800</tspan>
+<tspan x="10" y="570">reuse code from phantomjs-lite package</tspan>
+<tspan x="10" y="586"></tspan>
+<tspan x="10" y="602">2015-11-19 17:30:26 +0800</tspan>
+<tspan x="10" y="618">reuse code from phantomjs-lite package</tspan>
+<tspan x="10" y="634"></tspan>
+<tspan x="10" y="650">2015-09-25 22:41:04 +0800</tspan>
+<tspan x="10" y="666">'update to nodejs v4'</tspan>
+<tspan x="10" y="682"></tspan>
+<tspan x="10" y="698">2015-08-24 21:16:46 +0800</tspan>
+<tspan x="10" y="714">add codeship.com badge</tspan>
+<tspan x="10" y="730"></tspan>
+<tspan x="10" y="746">2015-08-20 12:27:36 +0800</tspan>
+<tspan x="10" y="762">'update README.md'</tspan>
+<tspan x="10" y="778"></tspan>
+<tspan x="10" y="794">2015-08-20 08:16:43 +0800</tspan>
+<tspan x="10" y="810">'update README.md'</tspan>
+<tspan x="10" y="826"></tspan>
+<tspan x="10" y="842">2015-08-19 11:24:05 +0800</tspan>
+<tspan x="10" y="858">- npm publish 2015.8.2</tspan>
+<tspan x="10" y="874">- upgrade to slimerjs@0.9.6</tspan>
+<tspan x="10" y="890"></tspan>
+<tspan x="10" y="906">2015-08-13 01:14:33 +0800</tspan>
+<tspan x="10" y="922">- npm publish 2015.8.1</tspan>
+<tspan x="10" y="938">- replace some screen-captures with svg</tspan>
+<tspan x="10" y="954"></tspan>
+<tspan x="10" y="970">2015-07-31 17:13:54 +0800</tspan>
+<tspan x="10" y="986">- npm publish 2015.7.1</tspan>
+<tspan x="10" y="1002">- update README.md</tspan>
+<tspan x="10" y="1018">- update dependencies</tspan>
+<tspan x="10" y="1034"></tspan>
+<tspan x="10" y="1050">2015-06-24 21:53:14 +0800</tspan>
+<tspan x="10" y="1066">- npm publish 2015.6.1</tspan>
+<tspan x="10" y="1082">- fix version breakage with latest npm install</tspan>
+<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114">2015-06-20 14:11:34 +0800</tspan>
+<tspan x="10" y="1130">- npm publish 1.9.8-20150610b</tspan>
+<tspan x="10" y="1146">- remove legacy node build dependency</tspan>
+<tspan x="10" y="1162"></tspan>
+<tspan x="10" y="1178">2015-06-09 16:46:03 +0800</tspan>
+<tspan x="10" y="1194">- npm publish 1.9.8-2015.6.1-b</tspan>
+<tspan x="10" y="1210">- sync versioning with phantomjs-binary</tspan>
+<tspan x="10" y="1226">- update README.md with syntax-highlighted code-blocks</tspan>
+<tspan x="10" y="1242"></tspan>
+<tspan x="10" y="1258">2015-05-28 12:35:53 +0800</tspan>
+<tspan x="10" y="1274">- npm publish 2015.5.28-b</tspan>
+<tspan x="10" y="1290">- update README.md</tspan>
+<tspan x="10" y="1306"></tspan>
+<tspan x="10" y="1322">2015-04-26 22:03:04 +0800</tspan>
+<tspan x="10" y="1338">- npm publish 2015.4.26-c</tspan>
+<tspan x="10" y="1354">- transpose build-status table</tspan>
+<tspan x="10" y="1370">- add build-artifact link in README.md</tspan>
+<tspan x="10" y="1386">- add link to screen-capture in README.md</tspan>
+<tspan x="10" y="1402"></tspan>
+<tspan x="10" y="1418">2015-04-19 00:03:02 +0800</tspan>
+<tspan x="10" y="1434">npm publish 2015.4.18-a</tspan>
+<tspan x="10" y="1450"></tspan>
+<tspan x="10" y="1466">2015-04-18 22:39:32 +0800</tspan>
+<tspan x="10" y="1482">use https to download slimerjs</tspan>
+<tspan x="10" y="1498"></tspan>
+<tspan x="10" y="1514">2015-04-09 17:35:41 +0800</tspan>
+<tspan x="10" y="1530">npm publish 2015.4.9-a</tspan>
+<tspan x="10" y="1546"></tspan>
+<tspan x="10" y="1562">2015-04-03 14:04:08 +0800</tspan>
+<tspan x="10" y="1578">add node v0.10 travis build</tspan>
+<tspan x="10" y="1594"></tspan>
+<tspan x="10" y="1610">2015-04-03 14:01:24 +0800</tspan>
+<tspan x="10" y="1626">npm publish 2015.4.3-10</tspan>
+<tspan x="10" y="1642"></tspan>
+<tspan x="10" y="1658">2015-04-01 23:18:26 +0800</tspan>
+<tspan x="10" y="1674">add unzip check</tspan>
+<tspan x="10" y="1690"></tspan>
+<tspan x="10" y="1706">2015-04-01 19:24:07 +0800</tspan>
+<tspan x="10" y="1722">npm publish 2015.4.1-12</tspan>
+<tspan x="10" y="1738"></tspan>
+<tspan x="10" y="1754">2015-04-01 19:15:54 +0800</tspan>
+<tspan x="10" y="1770">include phantomjs and slimerjs binary in npm .bin directory</tspan>
+<tspan x="10" y="1786"></tspan>
+<tspan x="10" y="1802">2015-03-29 17:22:50 +0800</tspan>
+<tspan x="10" y="1818">npm publish 2015.3.29-13</tspan>
+<tspan x="10" y="1834"></tspan>
+<tspan x="10" y="1850">2015-03-29 17:17:56 +0800</tspan>
+<tspan x="10" y="1866">fix build</tspan>
+<tspan x="10" y="1882"></tspan>
+<tspan x="10" y="1898">2015-03-29 17:12:06 +0800</tspan>
+<tspan x="10" y="1914">npm publish 2015.3.29-12</tspan>
+<tspan x="10" y="1930"></tspan>
+<tspan x="10" y="1946">2015-03-29 07:02:50 +0800</tspan>
+<tspan x="10" y="1962">npm publish 2015.3.29-11</tspan>
+<tspan x="10" y="1978"></tspan>
+<tspan x="10" y="1994">2015-03-29 06:53:02 +0800</tspan>
+<tspan x="10" y="2010">debug travis</tspan>
+<tspan x="10" y="2026"></tspan>
+<tspan x="10" y="2042">2015-03-29 05:12:15 +0800</tspan>
+<tspan x="10" y="2058">fix build</tspan>
+<tspan x="10" y="2074"></tspan>
+<tspan x="10" y="2090">2015-03-29 05:10:08 +0800</tspan>
+<tspan x="10" y="2106">fix build</tspan>
+<tspan x="10" y="2122"></tspan>
+<tspan x="10" y="2138">2015-03-29 04:57:53 +0800</tspan>
+<tspan x="10" y="2154">add processSpawn</tspan>
+<tspan x="10" y="2170"></tspan>
+<tspan x="10" y="2186">2015-03-29 03:47:07 +0800</tspan>
+<tspan x="10" y="2202">test screen-capture build</tspan>
+<tspan x="10" y="2218"></tspan>
+<tspan x="10" y="2234">2015-03-29 03:43:05 +0800</tspan>
+<tspan x="10" y="2250">- add screen-capture example</tspan>
+<tspan x="10" y="2266"></tspan>
+<tspan x="10" y="2282">2015-03-29 02:43:43 +0800</tspan>
+<tspan x="10" y="2298">merge test.js into package.json</tspan>
+<tspan x="10" y="2314">add phantomjs-lite script to eval string input</tspan>
+<tspan x="10" y="2330"></tspan>
+<tspan x="10" y="2346">2015-03-24 20:53:32 +0800</tspan>
+<tspan x="10" y="2362">'npm publish 2015.3.24-11'</tspan>
+<tspan x="10" y="2378"></tspan>
+<tspan x="10" y="2394">2015-03-24 18:23:43 +0800</tspan>
+<tspan x="10" y="2410">'npm publish 2015.3.24-10'</tspan>
+<tspan x="10" y="2426"></tspan>
+<tspan x="10" y="2442">2015-03-24 18:09:47 +0800</tspan>
+<tspan x="10" y="2458">update README.md</tspan>
+<tspan x="10" y="2474"></tspan>
+<tspan x="10" y="2490">2015-03-20 08:18:13 +0800</tspan>
+<tspan x="10" y="2506">npm publish 2015.3.20-10</tspan>
+<tspan x="10" y="2522"></tspan>
+<tspan x="10" y="2538">2015-03-20 08:10:37 +0800</tspan>
+<tspan x="10" y="2554">update README.md</tspan>
+<tspan x="10" y="2570"></tspan>
+<tspan x="10" y="2586">2015-03-20 07:56:00 +0800</tspan>
+<tspan x="10" y="2602">fix build</tspan>
+</text>
+</svg>
