@@ -1,38 +1,37 @@
-<svg height="558" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="558" fill="#555" width="720"></rect>
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=testExampleJs] - 2015-11-20T09:03:36Z - testing example.js</tspan>
+<tspan x="10" y="42">[MODE_BUILD=testExampleJs] - 2015-11-20T09:09:36Z - testing example.js</tspan>
 <tspan x="10" y="58"></tspan>
 <tspan x="10" y="74">npm install electron-prebuilt-lite &amp;&amp;  printf '{"main":"example.js","name":"example","version":"\</tspan>
 <tspan x="10" y="90">0.0.0"}' &gt;  package.json &amp;&amp;  ./node_modules/.bin/electron . --disable-overlay-scrollbar --enable\</tspan>
 <tspan x="10" y="106">-logging</tspan>
 <tspan x="10" y="122"></tspan>
 <tspan x="10" y="138"></tspan>
-<tspan x="10" y="154">&gt; electron-prebuilt-lite@2015.10.3 preinstall /tmp/app/node_modules/.staging/electron-prebuilt-l\</tspan>
+<tspan x="10" y="154">&gt; electron-prebuilt-lite@2015.10.4 preinstall /tmp/app/node_modules/.staging/electron-prebuilt-l\</tspan>
 <tspan x="10" y="170">ite-a12e7dec745efbf626c1236653af8d1b</tspan>
 <tspan x="10" y="186">&gt; mkdir -p external &amp;&amp; touch external/electron</tspan>
 <tspan x="10" y="202"></tspan>
 <tspan x="10" y="218"></tspan>
-<tspan x="10" y="234">&gt; electron-prebuilt-lite@2015.10.3 postinstall /tmp/app/node_modules/electron-prebuilt-lite</tspan>
+<tspan x="10" y="234">&gt; electron-prebuilt-lite@2015.10.4 postinstall /tmp/app/node_modules/electron-prebuilt-lite</tspan>
 <tspan x="10" y="250">&gt; ./index.sh shNpmPostinstall</tspan>
 <tspan x="10" y="266"></tspan>
 <tspan x="10" y="282">/tmp/app</tspan>
-<tspan x="10" y="298">└── electron-prebuilt-lite@2015.10.3 </tspan>
+<tspan x="10" y="298">└── electron-prebuilt-lite@2015.10.4 </tspan>
 <tspan x="10" y="314"></tspan>
 <tspan x="10" y="330">npm WARN ENOENT ENOENT: no such file or directory, open '/tmp/app/package.json'</tspan>
 <tspan x="10" y="346">npm WARN EPACKAGEJSON /tmp/app No description</tspan>
 <tspan x="10" y="362">npm WARN EPACKAGEJSON /tmp/app No repository field.</tspan>
 <tspan x="10" y="378">npm WARN EPACKAGEJSON /tmp/app No README data</tspan>
 <tspan x="10" y="394">npm WARN EPACKAGEJSON /tmp/app No license field.</tspan>
-<tspan x="10" y="410">[2507:1120/090339:ERROR:browser_main_loop.cc(189)] Running without the SUID sandbox! See https:/\</tspan>
+<tspan x="10" y="410">[2498:1120/090938:ERROR:browser_main_loop.cc(189)] Running without the SUID sandbox! See https:/\</tspan>
 <tspan x="10" y="426">/code.google.com/p/chromium/wiki/LinuxSUIDSandboxDevelopment for more information on developing \</tspan>
 <tspan x="10" y="442">with the sandbox on.</tspan>
 <tspan x="10" y="458">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
 <tspan x="10" y="474">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
-<tspan x="10" y="490">[2543:1120/090340:ERROR:renderer_main.cc(200)] Running without renderer sandbox</tspan>
-<tspan x="10" y="506">[2525:1120/090340:ERROR:sandbox_linux.cc(345)] InitializeSandbox() called with multiple threads \</tspan>
-<tspan x="10" y="522">in process gpu-process</tspan>
-<tspan x="10" y="538">[2507:1120/090340:ERROR:browser_gpu_channel_host_factory.cc(133)] Failed to create channel.</tspan>
+<tspan x="10" y="490">[2515:1120/090938:ERROR:sandbox_linux.cc(345)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="506">in process gpu-process</tspan>
+<tspan x="10" y="522">[2537:1120/090939:ERROR:renderer_main.cc(200)] Running without renderer sandbox</tspan>
 </text>
 </svg>
