@@ -1,6 +1,6 @@
-electron-prebuilt-lite
+electron-prebuilt-lite is now DEPRECATED
 ==============
-lightweight version of electron-prebuilt with zero npm-dependencies
+this package has been renamed [electron-lite](https://www.npmjs.com/package/electron-lite)
 
 [![NPM](https://img.shields.io/npm/v/electron-prebuilt-lite.svg?style=flat-square)](https://www.npmjs.org/package/electron-prebuilt-lite) [![NPM](https://img.shields.io/npm/dm/electron-prebuilt-lite.svg?style=flat-square)](https://www.npmjs.org/package/electron-prebuilt-lite)
 
@@ -164,7 +164,7 @@ rm -fr external && \
 npm run-script postinstall && \
 ./external/electron --version || exit $?;"
     },
-    "version": "2015.10.4"
+    "version": "2015.10.5"
 }
 ```
 
@@ -175,11 +175,9 @@ npm run-script postinstall && \
 
 
 
-# change since cbb6812b
-- npm publish 2015.10.4
-- update to electron @ 0.35.1
-- update devDependencty to utility2@2015.11.4
-- fix quickstart screen-capture example
+# change since 13339ae0
+- npm publish 2015.10.5
+- deprecate this package
 - none
 
 
